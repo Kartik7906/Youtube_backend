@@ -1,0 +1,15 @@
+{
+  "name": "youtube-backend",
+  "version": "1.0.0",
+  "description": "This is backend model of youtube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript",
+    "Backend"
+  ],
+  "author": "Kartik Kumar Rasanya",
+  "license": "ISC"
+}
